@@ -1,4 +1,4 @@
-[source](https://github.com/minv5725495/notes/blob/master/README.md)
+[SRC](https://github.com/minv5725495/minv5725495/blob/master/README.md)
 # Daily 
 
 <details>
