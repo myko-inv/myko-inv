@@ -1,3 +1,25 @@
+```
+https://www.youtube.com/watch?v=-YS5xeDc0-o
+How to Farm Helix Airdrop
+
+https://www.youtube.com/watch?v=F0AT4k0rNBI
+0:00 Начало
+0:19 Pyth за Helix
+2:10 Hydro airdrop
+8:03 Nim Airdrop
+10:41 Интервью Wierd Friends
+
+
+https://www.youtube.com/watch?v=H2_wliVWx7Y
+БОЛЬШЕ ЧЕМ ПРОСТО АЛЬТКОИН 🔥 ПРОЕКТ УРОВНЯ BTC, ETH, SOL 🔥 ИКСЫ НЕИЗБЕЖНЫ
+
+https://www.youtube.com/live/jWhRN5VsRjE
+Набрал Axelar. Sui / Aptos. Зачистка рынка от ММ. L2 от Uniswap.
+```
+
+
+
+
 [SRC](https://github.com/minv5725495/minv5725495/blob/master/README.md)
 # Daily 
 
