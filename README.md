@@ -90,9 +90,9 @@ https://www.youtube.com/live/jWhRN5VsRjE
 | [LightLink](https://galxe.com/lightlink)      | FFox MMsk  | Pyth + Tia      
 | [LightLink](https://twitter.com/LightLinkChain/status/1754686450954863029) | twitter
 |                                               |                     |     
-| NIM                                           |                     | DYM    
+| ✅ [NIM](https://claim.nim.network/claim)                                   |                     | DYM    
 |                                               |                     | 
-| [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ) | [Aigisos Twitter](https://x.com/aigisos) | [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404) |
+| ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ) | [Aigisos Twitter](https://x.com/aigisos) | [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404) |
 |  [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |  
 |     
 
