@@ -1,8 +1,7 @@
-```
-
+---
 [21 Тестнет на 2025год. Ч1](https://teletype.in/@irontraveler/w4EJXyAKTjj)
 
-```
+---
 
 ```
 https://www.youtube.com/watch?v=-YS5xeDc0-o
