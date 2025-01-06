@@ -2,11 +2,7 @@
 [21 Тестнет на 2025год. Ч1](https://teletype.in/@irontraveler/w4EJXyAKTjj)
 
 ---
-iron 👢
-
-iron ⚔️
-
-cook 🐟
+mithril armor
 
 ---
 
