@@ -2,7 +2,9 @@
 [21 Тестнет на 2025год. Ч1](https://teletype.in/@irontraveler/w4EJXyAKTjj)
 
 ---
-mithril armor
+I need smith mithril armor
+I need cook bleck
+
 
 ---
 
