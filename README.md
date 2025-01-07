@@ -3,6 +3,9 @@
 
 ---
 I need wood
+
+I need Iron axe
+
 I need cook bleck
 
 
