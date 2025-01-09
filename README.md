@@ -8,7 +8,7 @@ I need Iron axe
 
 I need fight with arcane dragons
 
-I need smith 7500 iron
+I need smith 7500 iron... inprogress
 
 ---
 
