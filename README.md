@@ -36,7 +36,16 @@ https://www.youtube.com/live/jWhRN5VsRjE
 
 
 [SRC](https://github.com/minv5725495/minv5725495/blob/master/README.md)
-# Daily 
+
+<details>
+  <summary> 2025 </summary>
+
+| Project                                       | Wallet - Acc        | Notes | Notes | Notes | 
+| :------------------------------------         |     :---            |  ---: |  ---: |  ---: |
+| https://polaris.app/
+
+</details>
+
 
 <details>
   <summary> Elys </summary>
