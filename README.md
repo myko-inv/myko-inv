@@ -2,15 +2,50 @@
 [21 Тестнет на 2025год. Ч1](https://teletype.in/@irontraveler/w4EJXyAKTjj)
 
 ---
-I need wood
+<details>
+  <summary> TO DO </summary>
 
-I need Iron axe
+| Project                                       | Wallet - Acc        | Notes | Notes | Notes
+| :------------------------------------         |     :---            |  ---: |  ---: |  ---: |
+|                                               |                     |       
+| ⚠️ [AIGILOS](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7?referralCode=74PGmr)
+| ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ) 
+| ℹ️ [Aigisos Twitter](https://x.com/aigisos) 
+| ℹ️ [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404)
+| ℹ️ [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |  
+| 
 
-I need fight with arcane dragons
-
-I am smithing
+</details>
 
 ---
+[Mintscan](https://x.com/mintscanio/status/1876836004725944783)
+
+We regret to inform you that Mintscan will discontinue support for the following chains effective January 31, 2025
+- AssetMantle (@AssetMantle)
+- Evmos (@EvmosOrg )
+- Kyve (@KYVENetwork )
+- Juno (@JunoNetwork)
+- [ Nym (@nym) ](https://x.com/nym)
+
+---
+
+[mammoths](https://modularium.art/collection/mammoths)
+[habitats](https://modularium.art/collection/habitats)
+
+Modularium
+An art fair of novel onchain experiments on Forma with Celestia und...
+Modularium.art
+
+---
+
+https://x.com/73lV_/status/1877653610479153213
+
+martinezz ⛋ — Today at 3:27 PM
+будет коллекция от мантры , альфа 
+
+---
+
+
 
 
 ```
@@ -116,8 +151,5 @@ https://www.youtube.com/live/jWhRN5VsRjE
 |                                               |                     |     
 | ✅ [NIM](https://claim.nim.network/claim)                                   |                     | DYM    
 |                                               |                     | 
-| ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ) | [Aigisos Twitter](https://x.com/aigisos) | [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404) |
-|  [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |  
-|     
 
 </details>
