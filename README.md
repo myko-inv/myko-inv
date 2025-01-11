@@ -30,6 +30,7 @@ We regret to inform you that Mintscan will discontinue support for the following
 ---
 
 [mammoths](https://modularium.art/collection/mammoths)
+
 [habitats](https://modularium.art/collection/habitats)
 
 Modularium
