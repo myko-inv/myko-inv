@@ -1,3 +1,4 @@
+
 ---
 [21 Тестнет на 2025год. Ч1](https://teletype.in/@irontraveler/w4EJXyAKTjj)
 
@@ -9,11 +10,11 @@
 | :------------------------------------         |     :---            |  ---: |  ---: |  ---: |
 | ✅ axelar discord                              |                     |       
 | ✅ [AIGILOS](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7?referralCode=VHazse)
-| ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ) 
-| ℹ️ [Aigisos Twitter](https://x.com/aigisos) 
+| ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ)
+| ℹ️ [Aigisos Twitter](https://x.com/aigisos)
 | ℹ️ [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404)
 | ℹ️ [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |  
-| 
+|
 
 </details>
 
@@ -42,7 +43,7 @@ Modularium.art
 https://x.com/73lV_/status/1877653610479153213
 
 martinezz ⛋ — Today at 3:27 PM
-будет коллекция от мантры , альфа 
+будет коллекция от мантры , альфа
 
 ---
 
@@ -76,7 +77,7 @@ https://www.youtube.com/live/jWhRN5VsRjE
 <details>
   <summary> 2025 </summary>
 
-| Project                                       | Wallet - Acc        | Notes | Notes | Notes | 
+| Project                                       | Wallet - Acc        | Notes | Notes | Notes |
 | :------------------------------------         |     :---            |  ---: |  ---: |  ---: |
 | https://polaris.app/
 
@@ -85,22 +86,22 @@ https://www.youtube.com/live/jWhRN5VsRjE
 
 <details>
   <summary> Elys </summary>
-  
-| Project                                       | Wallet - Acc        | Notes | Notes | Notes | 
+
+| Project                                       | Wallet - Acc        | Notes | Notes | Notes |
 | :------------------------------------         |     :---            |  ---: |  ---: |  ---: |
 | [Elys](https://testnet.elys.network/faucet)   | Keplr _Main_Acc-1   |       
-| [NFT-Tier1](https://www.stargaze.zone/l/stars19qz0n2s65zjgqnpgudgrh4x5xzhvfsgram2wx98rt35m9ynd8enqkn7ygg) | 
-| [NFT-Tier2](https://www.stargaze.zone/l/stars1m8d069j4zaws97mf3unp0cwrm9c0m75j93h8jjgq8ay2r3zng3usgmuztr) | 
+| [NFT-Tier1](https://www.stargaze.zone/l/stars19qz0n2s65zjgqnpgudgrh4x5xzhvfsgram2wx98rt35m9ynd8enqkn7ygg) |
+| [NFT-Tier2](https://www.stargaze.zone/l/stars1m8d069j4zaws97mf3unp0cwrm9c0m75j93h8jjgq8ay2r3zng3usgmuztr) |
 
 </details>
 
 
 | Project                                       | Wallet - Acc        | Notes |
 | :------------------------------------         |     :---            |          ---: |
-| [Bera-2](https://artio.faucet.berachain.com/) | MMask 0x427E65Fff0F8041938E45680E22dF5b009011a99 | 
-| [ALT-Layer]                                   | MMask 0xb262CbA7ecE4487Df60315aA8653beC5a3D85e4C | 
+| [Bera-2](https://artio.faucet.berachain.com/) | MMask 0x427E65Fff0F8041938E45680E22dF5b009011a99 |
+| [ALT-Layer]                                   | MMask 0xb262CbA7ecE4487Df60315aA8653beC5a3D85e4C |
 |||
-  
+
 
 | Project                                       | Wallet - Acc        | Notes |
 | :------------------------------------         |     :---            |          ---: |
@@ -122,7 +123,7 @@ https://www.youtube.com/live/jWhRN5VsRjE
 
 [Faucet](https://nebulafi.xyz/faucet) | | |
 | :------------------------------------         |     :---   |          ---: |
-|Network Name | NebulaFi 
+|Network Name | NebulaFi
 |    RPC URL  | https://json-rpc.nebula.evm.ra.blumbus.noisnemyd.xyz |
 |Chain ID     | 1336831 |
 |Symbol       | NBL     |
@@ -151,6 +152,6 @@ https://www.youtube.com/live/jWhRN5VsRjE
 | [LightLink](https://twitter.com/LightLinkChain/status/1754686450954863029) | twitter
 |                                               |                     |     
 | ✅ [NIM](https://claim.nim.network/claim)                                   |                     | DYM    
-|                                               |                     | 
+|                                               |                     |
 
 </details>
