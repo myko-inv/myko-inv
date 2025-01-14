@@ -3,6 +3,11 @@
 [21 Тестнет на 2025год. Ч1](https://teletype.in/@irontraveler/w4EJXyAKTjj)
 
 ---
+### TO DO 
+
+https://claims.sirath.network/
+
+---
 <details>
   <summary> D O N E </summary>
 
