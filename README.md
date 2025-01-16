@@ -9,8 +9,17 @@ https://claims.sirath.network/
 
 https://t.me/cosmos_wallet_bot
 
+вчера нашел хороший видос по эклипсу (как начать) https://www.youtube.com/watch?v=xVnWm0wNhwY
+
+https://www.subber.xyz/defigeeks
+
+https://atlas3.io/project/defi-geeks
+
+Скину сюда - детали минта завтра на Мантре:
+https://x.com/OnchainOMies/status/1879921563308536260
 https://www.stargaze.zone/l/onchain-omies это ана?
 
+  (https://x.com/abstractcatsnft?s=21)
 
 ---
 <details>
