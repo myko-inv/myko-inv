@@ -6,7 +6,11 @@
 ### TO DO 
 
 https://claims.sirath.network/
+
 https://t.me/cosmos_wallet_bot
+
+https://www.stargaze.zone/l/onchain-omies это ана?
+
 
 ---
 <details>
