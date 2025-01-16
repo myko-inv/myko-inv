@@ -6,6 +6,7 @@
 ### TO DO 
 
 https://claims.sirath.network/
+https://t.me/cosmos_wallet_bot
 
 ---
 <details>
